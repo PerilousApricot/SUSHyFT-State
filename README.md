@@ -1,4 +1,5 @@
 SUSHyFT-State
 =============
 
-Stores state of datasets being processed
+To coordinate different daemons that are processing data, this repository
+provides a place to atomically dump statuses
