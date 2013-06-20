@@ -1,1 +1,4 @@
 
+/TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola/None-20130206162922/USER 6884775
+/ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6/None-20130206162922/USER 100052
+/DYJetsToLL_M-50_TuneZ2Star_8TeV-madgraph-tarball/StoreResults-Summer12_DR53X-PU_S10_START53_V7A-v1_TLBSM_53x_v3-99bd99199697666ff01397dad5652e9e/USER 30404232
