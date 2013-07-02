@@ -1,0 +1,3 @@
+/store/user/meloam/Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola/melo_v2_Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_1_2_Dls.root
+/store/user/meloam/Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola/melo_v2_Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_4_1_v3Q.root
+/store/user/meloam/Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola/melo_v2_Tbar_s-channel_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_5_1_io4.root

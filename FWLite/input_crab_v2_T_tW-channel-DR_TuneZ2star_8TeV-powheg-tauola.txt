@@ -1,0 +1,10 @@
+/store/user/meloam/T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/melo_v2_T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_11_2_Kvb.root
+/store/user/meloam/T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/melo_v2_T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_12_2_aG4.root
+/store/user/meloam/T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/melo_v2_T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_13_2_UFr.root
+/store/user/meloam/T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/melo_v2_T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_15_2_IEc.root
+/store/user/meloam/T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/melo_v2_T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_1_2_oEX.root
+/store/user/meloam/T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/melo_v2_T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_2_2_pwk.root
+/store/user/meloam/T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/melo_v2_T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_4_2_kBQ.root
+/store/user/meloam/T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/melo_v2_T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_5_2_tL8.root
+/store/user/meloam/T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/melo_v2_T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_6_2_JGK.root
+/store/user/meloam/T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/melo_v2_T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola_/77d719c5702be485d26a9b383688b09c/shyftDump2_9_2_i99.root
