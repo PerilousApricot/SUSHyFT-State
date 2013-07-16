@@ -1,0 +1,6 @@
+/store/user/meloam/MET/melo_v2_METRun2012CEcalRecover_/562ac012a02badb8cb519b40e75790e9/shyftDump2_1_1_S0Y.root
+/store/user/meloam/MET/melo_v2_METRun2012CEcalRecover_/562ac012a02badb8cb519b40e75790e9/shyftDump2_2_1_e5c.root
+/store/user/meloam/MET/melo_v2_METRun2012CEcalRecover_/562ac012a02badb8cb519b40e75790e9/shyftDump2_3_1_7eA.root
+/store/user/meloam/MET/melo_v2_METRun2012CEcalRecover_/562ac012a02badb8cb519b40e75790e9/shyftDump2_4_1_a2a.root
+/store/user/meloam/MET/melo_v2_METRun2012CEcalRecover_/562ac012a02badb8cb519b40e75790e9/shyftDump2_5_1_GpA.root
+/store/user/meloam/MET/melo_v2_METRun2012CEcalRecover_/562ac012a02badb8cb519b40e75790e9/shyftDump2_6_1_7ha.root
