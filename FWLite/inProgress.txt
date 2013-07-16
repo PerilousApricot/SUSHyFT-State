@@ -59,3 +59,10 @@ Tue Jul 16 14:38:59 CDT 2013 crab_v2_SingleMuRun2012C24Aug2012
 Tue Jul 16 14:38:59 CDT 2013 crab_v2_SingleMuRun2012CEcalRecover
 Tue Jul 16 14:39:01 CDT 2013 crab_v2_SingleMuRun2012CPromptReco
 Tue Jul 16 14:39:03 CDT 2013 crab_v2_SingleMuRun2012DPromptReco
+Tue Jul 16 14:48:53 CDT 2013 crab_v2_METRun2012A13Jul2012
+Tue Jul 16 14:48:53 CDT 2013 crab_v2_METRun2012Arecover
+Tue Jul 16 14:48:54 CDT 2013 crab_v2_METRun2012B13Jul2012
+Tue Jul 16 14:48:54 CDT 2013 crab_v2_METRun2012C24Aug2012
+Tue Jul 16 14:48:54 CDT 2013 crab_v2_METRun2012CEcalRecover
+Tue Jul 16 14:48:55 CDT 2013 crab_v2_METRun2012CPromptReco
+Tue Jul 16 14:48:57 CDT 2013 crab_v2_METRun2012DPromptReco
