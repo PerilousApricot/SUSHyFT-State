@@ -45,17 +45,3 @@ Tue Jul  2 15:48:53 CDT 2013 crab_v2_ZJetToMuMu_Pt-50to80_TuneZ2star_8TeV_pythia
 Tue Jul  2 15:48:53 CDT 2013 crab_v2_ZJetToMuMu_Pt-80to120_TuneZ2star_8TeV_pythia6
 Tue Jul  2 15:49:06 CDT 2013 crab_v2_ZZJetsTo2L2Q_TuneZ2star_8TeV-madgraph-tauola
 Tue Jul  2 15:49:11 CDT 2013 crab_v2_ZZJetsTo2Q2Nu_TuneZ2star_8TeV-madgraph-tauloa
-Tue Jul 16 14:34:14 CDT 2013 crab_v2_METRun2012A13Jul2012
-Tue Jul 16 14:34:14 CDT 2013 crab_v2_METRun2012Arecover
-Tue Jul 16 14:34:20 CDT 2013 crab_v2_METRun2012B13Jul2012
-Tue Jul 16 14:34:21 CDT 2013 crab_v2_METRun2012C24Aug2012
-Tue Jul 16 14:34:21 CDT 2013 crab_v2_METRun2012CEcalRecover
-Tue Jul 16 14:34:32 CDT 2013 crab_v2_METRun2012CPromptReco
-Tue Jul 16 14:34:42 CDT 2013 crab_v2_METRun2012DPromptReco
-Tue Jul 16 14:34:47 CDT 2013 crab_v2_SingleMuRun2012A13Jul2012
-Tue Jul 16 14:34:49 CDT 2013 crab_v2_SingleMuRun2012Arecover
-Tue Jul 16 14:35:03 CDT 2013 crab_v2_SingleMuRun2012B13Jul2012
-Tue Jul 16 14:35:07 CDT 2013 crab_v2_SingleMuRun2012C24Aug2012
-Tue Jul 16 14:35:09 CDT 2013 crab_v2_SingleMuRun2012CEcalRecover
-Tue Jul 16 14:35:23 CDT 2013 crab_v2_SingleMuRun2012CPromptReco
-Tue Jul 16 14:35:39 CDT 2013 crab_v2_SingleMuRun2012DPromptReco
