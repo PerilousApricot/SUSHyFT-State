@@ -83,3 +83,6 @@
 /WJetsToLNu_matchingup_8TeV-madgraph-tauola/meloam-Summer12_DR53X-PU_S10_START53_V7A-v1_TLBSM_53x_v3-99bd99199697666ff01397dad5652e9e/USER 20747273
 /ZZJetsTo2L2Nu_TuneZ2star_8TeV-madgraph-tauola/meloam-Summer12_DR53X-PU_S10_START53_V7A-v3_TLBSM_53x_v3-99bd99199697666ff01397dad5652e9e/USER 783408
 /ZZJetsTo4L_TuneZ2star_8TeV-madgraph-tauola/meloam-Summer12_DR53X-PU_S10_START53_V7A-v1_TLBSM_53x_v3-99bd99199697666ff01397dad5652e9e/USER 4787433
+/T_s-channel_TuneZ2star_8TeV-powheg-tauola/jdamgov-Summer12_DR53X-PU_S10_START53_V7A-v1_TLBSM_53x_v3-99bd99199697666ff01397dad5652e9e/USER 0
+/ZJetToMuMu_Pt-20to30_TuneZ2star_8TeV_pythia6/None-/USER 0
+0
