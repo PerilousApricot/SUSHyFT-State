@@ -127,3 +127,9 @@ Wed Jul 17 13:18:36 CDT 2013 crab_v2_ZZJetsTo2L2Nu_TuneZ2star_8TeV-madgraph-tauo
 Wed Jul 17 13:18:40 CDT 2013 crab_v2_ZZJetsTo2L2Q_TuneZ2star_8TeV-madgraph-tauola
 Wed Jul 17 13:18:44 CDT 2013 crab_v2_ZZJetsTo2Q2Nu_TuneZ2star_8TeV-madgraph-tauloa
 Wed Jul 17 13:18:46 CDT 2013 crab_v2_ZZJetsTo4L_TuneZ2star_8TeV-madgraph-tauola
+Mon Aug 26 16:26:00 CDT 2013 crab_v2_T_s-channel_TuneZ2star_8TeV-powheg-tauola
+Mon Aug 26 16:26:13 CDT 2013 crab_v2_TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola
+Mon Aug 26 16:26:43 CDT 2013 crab_v2_WJetsToLNu_matchingdown_8TeV-madgraph-tauola
+Mon Aug 26 16:26:56 CDT 2013 crab_v2_WJetsToLNu_matchingup_8TeV-madgraph-tauola
+Mon Aug 26 16:27:39 CDT 2013 crab_v2_SingleMuRun2012DPromptReco
+Mon Aug 26 16:28:54 CDT 2013 crab_v2_QCD_Pt_20_MuEnrichedPt_15_TuneZ2star_8TeV_pythia6
